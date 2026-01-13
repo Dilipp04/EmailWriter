@@ -19,17 +19,18 @@ The application follows a **full-stack architecture** with a **Vite + React fron
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - React.js
 - Vite
 - Axios
 - HTML5, CSS3 (or Tailwind CSS)
 
 ### Backend
+
 - Java
 - Spring Boot
 - Spring Web
 - Maven
-
 
 ---
 
@@ -68,3 +69,8 @@ POST /api/email/generate
 
 
 
+```
+
+### UI
+
+![ui](image.png)
